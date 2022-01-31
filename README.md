@@ -1,1 +1,1 @@
-"infoa bout this project" 
+"info about this project" 
